@@ -2,7 +2,7 @@
 
 #  Objective: Purpose of the assignment is to integrate Machine Learning and AI as part of the Web UI. 
 
-![Screenshot_20240324_163626](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/463c54ad-8cac-4e9e-a56c-ac984a81244d)
-![Screenshot_20240324_164016](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/9a141fc6-22ed-429e-8de6-75967549c430)
-![Screenshot_20240324_163938](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/c65a86d8-5843-4f9f-bc15-71828c5747e1)
-![Screenshot_20240324_163855](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/38430cc1-fd26-4a09-a5dd-ace6bcfae980)
+![Screenshot 2024-03-31 194840](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/2baecc9b-3e97-4fd6-8a95-f5abe7948353)
+![Screenshot 2024-03-31 194926](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/c6b8ba94-074f-44e7-9b22-43d830bf9342)
+![Screenshot 2024-03-31 194909](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/fcf8c7ff-b11d-4efa-b6fa-d29bf344f7ac)
+![Screenshot 2024-03-31 194853](https://github.com/bkrish111/OCRTextAnalysis/assets/147780244/6a249a31-434b-42d4-8572-5b8ff08f93eb)
