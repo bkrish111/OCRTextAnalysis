@@ -26,7 +26,7 @@ import java.io.InputStream;
 public class MainActivity extends AppCompatActivity {
 
     private static final int PICK_IMAGE_REQUEST = 1;
-    private final String azureEndpoint = "https://OCRTextAnalysis.cognitiveservices.azure.com/computervision/imageanalysis:analyze/"; // Replace with your Azure endpoint URL
+    private final String azureEndpoint = "key"; // Replace with your Azure endpoint URL
     private final String subscriptionKey = "67740ac02048464a903ecdc1368eaa1f"; // Replace with your subscription key
 
 
